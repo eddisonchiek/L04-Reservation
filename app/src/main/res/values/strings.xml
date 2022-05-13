@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="welcome_text">Welcome To Registration</string>
+    <string name="First_name">First Name</string>
+    <string name="Last_name">Last Name</string>
+    <string name="name">Full Name: </string>
+    <string name="full_name">Full name:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="size_of_people">Amount of people:</string>
+    <string name="textview">TextView</string>
+    <string name="confirm_date">confirm date</string>
+    <string name="confirm_time">confirm time</string>
+    <string name="book_now">BOOK NOW!</string>
+    <string name="smoking_table">Smoking table</string>
+    <string name="non_smoking_table">Non-smoking table</string>
+    <string name="time_reset">RESET TIME</string>
+</resources>
